@@ -1,0 +1,1 @@
+-Javascript ideas for more unique scripts!-
