@@ -1,0 +1,15 @@
+/* Linked with index4.php and this is myrpg2.css */
+
+body {
+	background: teal;
+}
+
+canvas {
+	/*background-image: url("../images/race.jpg");
+	background: #333333; // code gray
+	background: #bedee5; // light blue
+	*/
+	background: #bedee5;
+	background-size: cover;
+	border: 2px solid black;
+}
